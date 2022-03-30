@@ -2,7 +2,7 @@
   "name": "base-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dimatomilow.github.io/goit-react-hw-03-phonebook",
+  "homepage": "https://dimatomilow.github.io/goit-react-hw-04-hooks-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
